@@ -1,0 +1,7 @@
+.history
+.DS_Store
+# 용량 문제
+common
+model
+plot
+*.npz
