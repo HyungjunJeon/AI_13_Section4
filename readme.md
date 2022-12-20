@@ -27,3 +27,7 @@ Pix2pix 활용 프로젝트 관련 디렉토리 입니다
 
 paired dataset을 cyclegan에 학습시켜 pix2pix와 비교하면 어떤 결과가 나올지 확인해본 실험 관련 디렉토리 입니다
 각 모델은 cyclegan과 pix2pix 디렉토리 내에 있으며 구성은 상단과 유사합니다
+
+## result 디렉토리
+발표 영상과 발표 자료가 담긴 디렉토리입니다
+pptx 파일과 pdf 파일의 내용은 동일합니다
